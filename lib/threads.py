@@ -1,3 +1,4 @@
+import os
 from .utils import create_ssl_socket, shutdown_socket, make_embed, send_webhook
 from zlib import decompress
 from itertools import cycle
