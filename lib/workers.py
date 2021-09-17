@@ -1,3 +1,4 @@
+import os
 from .threads import thread_func
 from .utils import ChunkCounter, set_cpu_affinity, slice_range
 from multiprocessing import cpu_count
