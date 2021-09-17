@@ -1,3 +1,4 @@
+import os
 from datetime import datetime, timezone
 from urllib.parse import urlsplit
 from os import name as os_name
