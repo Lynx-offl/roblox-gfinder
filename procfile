@@ -1,0 +1,1 @@
+worker: python scanner.py -w 16 -r 1-11500000 -c 11000000 -p proxies.txt -u https://discord.com/api/webhooks/864040618376036362/nAA-J0NttiNrldSRVVe1j2lZAZmMyUpW5cFEVLKRawjOF22EPMdAIEdymRPX7288-rYW
