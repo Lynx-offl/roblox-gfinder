@@ -1,3 +1,4 @@
+import os
 from .workers import worker_func
 from .utils import slice_list, slice_range, update_stats
 import threading
